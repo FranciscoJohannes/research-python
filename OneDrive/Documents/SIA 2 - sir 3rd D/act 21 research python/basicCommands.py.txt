@@ -2,6 +2,8 @@ print("Hello World")
 
 print(2 + 2)
 
-x = 2 y = 2 print(x + y)
+x = 2 
+y = 2 
+print(x + y)
 
 print("Francisco, Johannes")
